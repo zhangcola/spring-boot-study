@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Created by cola on 2017/1/18.
  */
-@SpringBootApplication
+//@SpringBootApplication
 @RestController
 public class SampleController {
 
